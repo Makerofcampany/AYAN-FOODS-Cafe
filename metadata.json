@@ -1,0 +1,8 @@
+{
+  "name": "Ayan Food Corner",
+  "description": "Premium Pakistani restaurant offering traditional Biryani, crispy Burgers, sizzling BBQ Platters, and gourmet Pizza with convenient WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
